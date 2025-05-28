@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,28 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Experience
+---
+### Research Fellow  
+*[Jan 2023 - Now]* University of Salerno, Italy
 
+
+# Education
+---
+
+### M.Sc. in Computer Engineering - Computer Systems Architecture
+*[2017 - 2020]*  Shahid Beheshti University, Tehran, Iran
+
+### B.Sc. in Computer Engineering - Hardware
+*[2012 - 2016]*  University of Birjand, Iran
+
+
+
+
+
+
+<!-- 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
 * Summer 2015: Research Assistant
-  * GitHub University
+  * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
   
 Skills
 ======
@@ -43,22 +53,22 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
