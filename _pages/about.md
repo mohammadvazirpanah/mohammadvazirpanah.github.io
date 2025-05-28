@@ -12,7 +12,7 @@ redirect_from:
 
 Currently, I am a **Research Fellow** at the [ISISLab](https://www.isislab.it) (**HPC Group**), part of the **University of Salerno**, Italy. My research spans from **embedded systems** and **cyber-physical systems (CPS)** to **RISC-V architectures** and **high-performance computing (HPC)**.
 
-My current focus is on the [**LibreRT** project]([https://www.isislab.it](https://librert.di.unisa.it/)), where I contribute to the **design and deployment of real-time applications** on embedded CPUs and GPUs. I work on developing portable software stacks that support responsiveness, determinism, and performance across heterogeneous platforms.
+My current focus is on the [**LibreRT** project](https://librert.di.unisa.it/), where I contribute to the **design and deployment of real-time applications** on embedded CPUs and GPUs. I work on developing portable software stacks that support responsiveness, determinism, and performance across heterogeneous platforms.
 
 Previously, during my master's at **Shahid Beheshti University**, I developed formal modeling frameworks for **self-aware cyber-physical systems** using **SystemC**, bridging simulation with real-time robotic co-design.
 
