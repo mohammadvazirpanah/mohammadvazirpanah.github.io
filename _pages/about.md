@@ -13,7 +13,7 @@ redirect_from:
  About me
 ------
 I am currently a **Research Fellow** in the [ISISLab](https://www.isislab.it) at the **University of Salerno**, Italy. 
-I completed my **M.Sc. in Computer Engineering (Computer Systems Architecture)** at **Shahid Beheshti University**, Tehran. 
+I completed my **M.Sc. in Computer Engineering (Computer Systems Architecture)** at **Shahid Beheshti University**, Tehran, Iran. 
 
 In addition to research, I have experience in teaching, academic collaboration, and open-source contributions. 
 
