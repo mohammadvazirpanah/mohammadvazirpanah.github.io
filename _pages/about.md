@@ -1,3 +1,4 @@
+---
 permalink: /
 # title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
@@ -6,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+
+------
 ## 👋 About Me
 
 Currently, I am a **Research Fellow** at the [ISISLab](https://www.isislab.it) within the **University of Salerno**, Italy, where I contribute to cutting-edge research in embedded systems and high-performance computing.  
