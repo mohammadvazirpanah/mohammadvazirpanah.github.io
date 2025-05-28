@@ -1,28 +1,34 @@
 ---
-permalink: /
-# title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+layout: single
+title: "About"
+permalink: /about/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
+## 👋 About Me
 
-------
-   
- About me
-------
-I am currently a **Research Fellow** in the [ISISLab](https://www.isislab.it) at the **University of Salerno**, Italy. 
-I completed my **M.Sc. in Computer Engineering (Computer Systems Architecture)** at **Shahid Beheshti University**, Tehran, Iran. 
+Currently, I am a **Research Fellow** at the [ISISLab](https://www.isislab.it) within the **University of Salerno**, Italy, where I contribute to cutting-edge research in embedded systems and high-performance computing.  
+I hold an **M.Sc. in Computer Engineering (Computer Systems Architecture)** from **Shahid Beheshti University**, Tehran, Iran.
 
-In addition to research, I have experience in teaching, academic collaboration, and open-source contributions. 
+My work spans across developing formal models for **self-aware cyber-physical systems**, exploring **RISC-V architectures**, and advancing real-time systems performance.
 
+---
 
+## 🔬 Research Interests
 
-Research Interests
-------
-My research interests lie at the intersection of **embedded systems**, **cyber-physical systems (CPS)**, **high-performance computing (HPC)**, and **RISC-V architectures**.
+- **Embedded Systems**
+- **Cyber-Physical Systems (CPS)**
+- **High-Performance Computing (HPC)**
+- **RISC-V Architectures**
+- **Real-Time Systems**
+- **SystemC and Formal Modeling**
 
-CV
-------
-Feel free to explore my [CV](/files/CV-MohammadVazirpanah.pdf), publications, and projects.
+---
+
+## 📄 CV
+
+You can view or download my full academic CV here:  
+👉 [**Download CV (PDF)**](/files/CV-MohammadVazirpanah.pdf)
+
+---
+
