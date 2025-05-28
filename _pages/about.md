@@ -11,7 +11,7 @@ redirect_from:
 ------
 ## 👋 About Me
 
-Currently, I am a **Research Fellow** at the [ISISLab](https://www.isislab.it) within the **University of Salerno**, Italy, where I contribute to cutting-edge research in embedded systems and high-performance computing.  
+Currently, I am a **Research Fellow** at the [ISISLab](https://www.isislab.it) (**HPC Group**) within the **University of Salerno**, Italy, where I contribute to cutting-edge research in embedded systems and high-performance computing.  
 I hold an **M.Sc. in Computer Engineering (Computer Systems Architecture)** from **Shahid Beheshti University**, Tehran, Iran.
 
 My work spans across developing formal models for **self-aware cyber-physical systems**, exploring **RISC-V architectures**, and advancing real-time systems performance.
