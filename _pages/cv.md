@@ -19,7 +19,7 @@ redirect_from:
 ---
 
 ### M.Sc. in Computer Engineering - Computer Systems Architecture
-*[2017 - 2020]*  Shahid Beheshti University, Tehran, Iran
+*[2018 - 2021]*  Shahid Beheshti University, Tehran, Iran
 
 ### B.Sc. in Computer Engineering - Hardware
 *[2012 - 2016]*  University of Birjand, Iran
