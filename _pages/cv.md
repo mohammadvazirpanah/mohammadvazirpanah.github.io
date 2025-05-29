@@ -24,8 +24,10 @@ redirect_from:
 ### B.Sc. in Computer Engineering - Hardware
 *[2012 - 2016]*  University of Birjand, Iran
 
-
-
+---
+You can view or download my full academic CV here:  
+👉 [**Download CV (PDF)**](/files/CV-MohammadVazirpanah.pdf)
+---
 
 
 
