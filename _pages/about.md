@@ -10,7 +10,7 @@ redirect_from:
 ------
 ## 👋 About Me
 
-Currently, I am a **Research Fellow** at the [ISISLab](https://www.isislab.it) (**HPC Group**), part of the **University of Salerno**, Italy. My research spans from **embedded systems** and **cyber-physical systems (CPS)** to **RISC-V architectures** and **high-performance computing (HPC)**.
+Currently, I am a **Research Fellow** at the [ISISLab](https://www.isislab.it) (**HPC Group, under the supervision of Prof. Biagio Cosenza**), part of the **University of Salerno**, Italy. My research spans from **embedded systems** and **cyber-physical systems (CPS)** to **RISC-V architectures** and **high-performance computing (HPC)**.
 
 My current focus is on the [**LibreRT** project](https://librert.di.unisa.it/), where I contribute to the **design and deployment of real-time applications** on embedded CPUs and GPUs. I work on developing portable software stacks that support responsiveness, determinism, and performance across heterogeneous platforms.
 
