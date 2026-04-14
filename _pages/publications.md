@@ -6,6 +6,10 @@ author_profile: true
 css_class: small-font
 ---
 
+[2026]  
+- B. Cosenza, F. Terraneo, G. Agosta, L. Carpentieri, D. Cattaneo, M. VazirPanah, N. Nicolosi, “LibreRT: Portable Heterogeneous Real-Time Programming for the Embedded Computing Continuum” in *23rd ACM International Conference on Computing Frontiers (CF), Special Session*, 2026.  
+[[DOI](https://doi.org/10.1145/3801488.3806240)]
+
 [2025]  
 - L. Carpentieri, M. VazirPanah, and B. Cosenza, “A performance analysis of autovectorization on RVV RISC-V boards,” in *33rd Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP)*, 2025.  
 [[DOI](https://doi.org/10.1109/PDP66500.2025.00026)]
